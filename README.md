@@ -1,6 +1,6 @@
 # Codicia_Invocador
 Codicia del Invocador es un Analisis estadisticos de algunas metricas que sirven para ajustar los datos de cada monstruos del juego, estos datos estan
-contenidos en el Archivo [Analisis Codicia](Arnovis27/Codicia_Invocador/Analisis Codicia.ipynb)
+contenidos en el Archivo [Analisis Codicia](https://github.com/Arnovis27/Codicia_Invocador/blob/main/Analisis%20Codicia.ipynb)
 
 ## Instalacion
 Requiere las librerias  
