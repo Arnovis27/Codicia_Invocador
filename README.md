@@ -4,9 +4,11 @@ contenidos en el Archivo [Analisis Codicia](https://github.com/Arnovis27/Codicia
 
 ## Instalacion
 Requiere las librerias  
-numpy  
-matplotlib
-pandas
+```numpy```  
+
+```matplotlib```  
+
+```pandas```  
 
 ## Uso
 Dentro de la carpeta dataset hay un archivo que contiene datos estadisticos del juego, los cuales nos interesan
