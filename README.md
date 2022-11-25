@@ -11,7 +11,7 @@ Requiere las librerias
 ```pandas```  
 
 ## Uso
-Dentro de la carpeta dataset hay un archivo que contiene datos estadisticos del juego, los cuales nos interesan
+Dentro de la carpeta dataset hay un [Archivo](https://github.com/Arnovis27/Codicia_Invocador/blob/main/Dataset/Codicia_del_invocador.csv) que contiene datos estadisticos del juego, los cuales nos interesan
 analizar, el archivo jupyter requiere las librerias y el dataset para poder ser ejecutado correctamente
 
 
