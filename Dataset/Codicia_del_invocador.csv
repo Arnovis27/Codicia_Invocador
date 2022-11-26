@@ -1,86 +1,87 @@
-Id;Nombre;Rareza;Tipo;Dano;Lvl;Oro Gastado
-1;Slimey;Comun;Normal;2.843.828.453;500;872750
-1.1;Slimey-Evo;Comun;Normal;28.438.284.530;500;872750
-2;Clyde;Comun;Normal;2.843.828.453;500;872750
-3;Grimey;Comun;Normal;1.895.932.639;500;872750
-4;Sparky;Comun;Electrico;2.843.828.453;500;872750
-4.1;Zipzappy-Evo;Comun;Electrico;47.491.935.165;500;872750
-5;Flamey;Comun;Fuego;2.843.828.453;500;872750
-5.1;Mr. Flamey-Evo;Comun;Fuego;474.066.203.115;500;872750
-6;Stacky;Raro;Normal;1.421.984.782;500;872750
-7;Mocha;Raro;Normal;2.843.828.453;500;872750
-7.1;Omega Mocha-Evo;Raro;Normal;56.876.569.060;500;872750
-8;Rocky;Raro;Normal;4.739.620.083;500;872750
-9;Spidey;Raro;Normal;2.369.880.546;500;923250
-10;Spiky;Raro;Normal;2.369.880.546;500;923250
-11;Cappuccino;Raro;Hielo;1.421.984.782;500;923250
-11.1;Iced Cappuccino-Evo;Raro;Hielo;56.879.391.280;500;923250
-12;Fury;Raro;Normal;2.369.880.546;500;923250
-13;Jack;Raro;Fuego;4.739.620.083;500;872750
-13.1;Skellington-Evo;Raro;Fuego;473.962.008.300;500;872750
-14;Devon;Epico;Normal;0;400;872750
-14.1;Devonette-Evo;Epico;Normal;0;400;872750
-15;Teddy;Epico;Normal;4.739.620.083;500;872750
-15.1;Teddy-Evo;Epico;Normal;94.792.401.660;500;872750
-16;Speedy;Epico;Normal;0;10;22500
-17;Mighty;Epico;Normal;0;400;872750
-18;Yeti;Epico;Hielo;3.791.724.268;500;872750
-19;Pyro;Epico;Fuego;3.791.724.268;500;872750
-19.1;ExPyro-Evo;Epico;Fuego;473.965.533.500;500;872750
-20;Chilly;Epico;Hielo;3.791.724.268;500;872750
-20.1;Extra Chilly-Evo;Epico;Hielo;75.834.485.360;500;872750
-21;Sluggy;Epico;Normal;0;10;22500
-22;Infernus;Epico;Normal;3.791.724.268;500;872750
-23;The King's Consort;Epico;Cosmico;0;500;39900500
-24;FrostBite;Legendario;Hielo;9.479.099.056;500;872750
-24.1;Glacial Darkwing-Evo;Legendario;Hielo;94.790.990.560;500;872750
-25;Ash;Legendario;Fuego;15.166.473.895;500;872750
-25.1;Dust-Evo;Legendario;Fuego;473.193.985.524;500;872750
-26;Puffy;Legendario;Electrico;9.479.099.056;500;872750
-26.1;Puffsaurus-Evo;Legendario;Electrico;94.790.990.560;500;872750
-27;Lightning;Legendario;Electrico;9.479.099.056;500;923250
-27.1;Megawatt-Evo;Legendario;Electrico;94.790.990.560;500;923250
-28;Slime King;Legendario;Normal;15.166.473.895;500;872750
-29;DeathBite;Legendario;Normal;9.479.099.056;500;872750
-30;Felina;Legendario;Normal;113.748.342.575;500;39900500
-31;Archangel Casielle;Legendario;Hielo;37.916.114.208;500;39900500
-32;Archangel Amael;Legendario;Electrico;37.916.114.208;500;39900500
-33;Archangel Malak;Legendario;Fuego;37.916.114.208;500;39900500
-34;Kevin;Legendario;Hielo/Fuego/Electrico;85.310.833.739;500;872750
-35;Darkwing;Especial;Normal;18.958.057.104;500;39900500
-35.1;Magma Darkwing-Evo;Especial;Normal;113.748.342.624;500;39900500
-36;Chronus;Especial;Hielo/Fuego;18.958.057.104;500;39900500
-37;Rudolph;Especial;Normal;3.791.724.268;500;872750
-38;Hellhound;Especial;Fuego;9.479.099.056;500;39900500
-38.1;Ifrit-Evo;Especial;Fuego;568.745.943.360;500;29038500
-39;Pony Sparks;Especial;Electrico;56.873.889.142;500;39900500
-39.1;Rapid Thunder-Evo;Especial;Electrico;85.310.833.713;500;39900500
-40;Mummy King;Especial;Normal;18.958.057.104;500;39900500
-41;Crispy;Especial;Fuego;18.958.057.104;500;39900500
-42;Archimedes;Especial;Hielo;9.479.099.056;500;39900500
-42.1;Arch-Archimedes-Evo;Especial;Hielo;94.790.990.560;500;39900500
-43;Archangel Gabriel;Especial;Normal;56.873.889.142;500;39900500
-44;Limzard;Especial;Normal;18.958.057.104;500;39900500
-45;Monke;Especial;Normal;75.834.485.323;500;872750
-46;Cheebs;Especial;Normal;1.137.483.425.703;500;19950250
-47;Poundfoolish;Especial;Normal;189.579.301.403;500;19950250
-48;Horus;Mitico;Normal;113.748.342.575;500;19950250
-49;Anubis;Mitico;Normal;113.748.342.575;500;19950250
-50;Ra;Mitico;Normal;113.748.342.575;500;19950250
-52;Bastet;Mitico;Normal;227.496.685.150;500;19950250
-53;Hades;Mitico;Fuego;113.748.342.575;500;19950250
-53;Zeus;Mitico;Electrico;113.748.342.575;500;19950250
-53.1;Bro Zeus-Evo;Mitico;Electrico;227.496.685.150;500;19950250
-54;Poseidon;Mitico;Hielo;568.741.712.826;500;19950250
-54.1;Swoleseidon-Evo;Mitico;Hielo;1.137.483.425.652;500;19950250
-55;Artemis;Mitico;Normal;113.748.342.575;500;19950250
-56;Amaterasu;Mitico;Fuego;1.137.483.425.703;500;19950250
-57;Susanoo;Mitico;Normal;90.998.674.080;500;19950250
-58;Jiraiya;Mitico;Hielo;568.741.712.826;500;19950250
-59;Hanzo;Mitico;Normal;113.748.342.575;500;19950250
-60;Cutehulu;Mitico;Cosmico;0;500;19950250
-61;Shupnikkurat;Mitico;Cosmico;0;500;19950250
-62;The King in Yelow;Mitico;Cosmico;0;500;19950250
-63;Draco Crimson Bordir;Mitico;Fuego;568.737.622.092;500;19950250
-64;Draco Azure Tyrvoid;Mitico;Hielo;379.158.461.748;500;19950250
-65;Draco Indigo Bylle;Mitico;Cosmico;758.316.782.486;500;19950250
+Id;Nombre;Rareza;Tipo;Dano;Lvl;Oro Gastado;;
+1;Slimey;Comun;Normal;2.843.828.453;500;872750;;
+1.1;Slimey-Evo;Comun;Normal;28.438.284.530;500;872750;;
+2;Clyde;Comun;Normal;2.843.828.453;500;872750;;
+3;Grimey;Comun;Normal;1.895.932.639;500;872750;;
+4;Sparky;Comun;Electrico;2.843.828.453;500;872750;;
+4.1;Zipzappy-Evo;Comun;Electrico;47.491.935.165;500;872750;;
+5;Flamey;Comun;Fuego;2.843.828.453;500;872750;;
+5.1;Mr. Flamey-Evo;Comun;Fuego;474.066.203.115;500;872750;;
+6;Stacky;Raro;Normal;1.421.984.782;500;872750;;
+7;Mocha;Raro;Normal;2.843.828.453;500;872750;;
+7.1;Omega Mocha-Evo;Raro;Normal;56.876.569.060;500;872750;;
+8;Rocky;Raro;Normal;4.739.620.083;500;872750;;
+9;Spidey;Raro;Normal;2.369.880.546;500;923250;;
+10;Spiky;Raro;Normal;2.369.880.546;500;923250;;
+11;Cappuccino;Raro;Hielo;1.421.984.782;500;923250;;
+11.1;Iced Cappuccino-Evo;Raro;Hielo;56.879.391.280;500;923250;;
+12;Fury;Raro;Normal;2.369.880.546;500;923250;;
+13;Jack;Raro;Fuego;4.739.620.083;500;872750;;
+13.1;Skellington-Evo;Raro;Fuego;473.962.008.300;500;872750;;
+14;Devon;Epico;Normal;0;400;872750;;
+14.1;Devonette-Evo;Epico;Normal;0;400;872750;;
+15;Teddy;Epico;Normal;4.739.620.083;500;872750;;
+15.1;Teddy-Evo;Epico;Normal;94.792.401.660;500;872750;;
+16;Speedy;Epico;Normal;0;10;22500;;
+17;Mighty;Epico;Normal;0;400;872750;;
+18;Yeti;Epico;Hielo;3.791.724.268;500;872750;;
+19;Pyro;Epico;Fuego;3.791.724.268;500;872750;;
+19.1;ExPyro-Evo;Epico;Fuego;473.965.533.500;500;872750;;
+20;Chilly;Epico;Hielo;3.791.724.268;500;872750;;
+20.1;Extra Chilly-Evo;Epico;Hielo;75.834.485.360;500;872750;;
+21;Sluggy;Epico;Normal;0;10;22500;;
+22;Infernus;Epico;Normal;3.791.724.268;500;872750;;
+23;The King's Consort;Epico;Cosmico;56.874.171.262;500;39900500;;
+24;FrostBite;Legendario;Hielo;9.479.099.056;500;872750;;
+24.1;Glacial Darkwing-Evo;Legendario;Hielo;94.790.990.560;500;872750;;
+25;Ash;Legendario;Fuego;15.166.473.895;500;872750;;
+25.1;Dust-Evo;Legendario;Fuego;473.193.985.524;500;872750;;
+26;Puffy;Legendario;Electrico;9.479.099.056;500;872750;;
+26.1;Puffsaurus-Evo;Legendario;Electrico;94.790.990.560;500;872750;;
+27;Lightning;Legendario;Electrico;9.479.099.056;500;923250;;
+27.1;Megawatt-Evo;Legendario;Electrico;94.790.990.560;500;923250;;
+28;Slime King;Legendario;Normal;15.166.473.895;500;872750;;
+29;DeathBite;Legendario;Normal;9.479.099.056;500;872750;;
+30;Felina;Legendario;Normal;113.748.342.575;500;39900500;;
+31;Archangel Casielle;Legendario;Hielo;37.916.114.208;500;39900500;;
+32;Archangel Amael;Legendario;Electrico;37.916.114.208;500;39900500;;
+33;Archangel Amael-Evo;Legendario;Electrico;341.245.027.726;500;39900500;;
+33;Archangel Malak;Legendario;Fuego;37.916.114.208;500;39900500;;
+34;Kevin;Legendario;Hielo/Fuego/Electrico;85.310.833.739;500;872750;;
+35;Darkwing;Especial;Normal;18.958.057.104;500;39900500;;
+35.1;Magma Darkwing-Evo;Especial;Normal;113.748.342.624;500;39900500;;
+36;Chronus;Especial;Hielo/Fuego;18.958.057.104;500;39900500;;
+37;Rudolph;Especial;Normal;3.791.724.268;500;872750;;
+38;Hellhound;Especial;Fuego;9.479.099.056;500;39900500;;
+38.1;Ifrit-Evo;Especial;Fuego;568.745.943.360;500;29038500;;
+39;Pony Sparks;Especial;Electrico;56.873.889.142;500;39900500;;
+39.1;Rapid Thunder-Evo;Especial;Electrico;85.310.833.713;500;39900500;;
+40;Mummy King;Especial;Normal;18.958.057.104;500;39900500;;
+41;Crispy;Especial;Fuego;18.958.057.104;500;39900500;;
+42;Archimedes;Especial;Hielo;9.479.099.056;500;39900500;;
+42.1;Arch-Archimedes-Evo;Especial;Hielo;94.790.990.560;500;39900500;;
+43;Archangel Gabriel;Especial;Normal;56.873.889.142;500;39900500;;
+44;Limzard;Especial;Hielo;18.958.057.104;500;39900500;;
+45;Monke;Especial;Normal;75.834.485.323;500;872750;;
+46;Cheebs;Especial;Normal;1.137.483.425.703;500;19950250;;
+47;Poundfoolish;Especial;Normal;189.579.301.403;500;19950250;;
+48;Horus;Mitico;Normal;113.748.342.575;500;19950250;;
+49;Anubis;Mitico;Normal;113.748.342.575;500;19950250;;
+50;Ra;Mitico;Fuego;113.748.342.575;500;19950250;;
+52;Bastet;Mitico;Normal;227.496.685.150;500;19950250;;
+53;Hades;Mitico;Fuego;113.748.342.575;500;19950250;;
+53;Zeus;Mitico;Electrico;113.748.342.575;500;19950250;;
+53.1;Bro Zeus-Evo;Mitico;Electrico;227.496.685.150;500;19950250;;
+54;Poseidon;Mitico;Hielo;568.741.712.826;500;19950250;;
+54.1;Swoleseidon-Evo;Mitico;Hielo;1.137.483.425.652;500;19950250;;
+55;Artemis;Mitico;Normal;113.748.342.575;500;19950250;;
+56;Amaterasu;Mitico;Fuego;1.137.483.425.703;500;19950250;;
+57;Susanoo;Mitico;Normal;90.998.674.080;500;19950250;;
+58;Jiraiya;Mitico;Hielo;568.741.712.826;500;19950250;;
+59;Hanzo;Mitico;Normal;113.748.342.575;500;19950250;;
+60;Cutehulu;Mitico;Cosmico;682.490.055.606;500;19950250;;
+61;Shupnikkurat;Mitico;Cosmico;113.748.342.575;500;19950250;;
+62;The King in Yelow;Mitico;Cosmico;113.748.342.575;500;19950250;;
+63;Draco Crimson Bordir;Mitico;Fuego;568.737.622.092;500;19950250;;
+64;Draco Azure Tyrvoid;Mitico;Hielo;379.158.461.748;500;19950250;;
+65;Draco Indigo Bylle;Mitico;Cosmico;758.316.782.486;500;19950250;;
